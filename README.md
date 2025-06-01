@@ -35,8 +35,11 @@ O sistema foi desenvolvido em Ionic e TypeScript.
 
 ## 🚀 Como Rodar o Projeto
 
+## 🚀 Como Rodar o Projeto
+
 1. Clone o repositório:
    ```bash
+   git clone https://github.com/flaviamazonas/IonicNews.git
 
 2. Instale as dependências:
     ```bash
